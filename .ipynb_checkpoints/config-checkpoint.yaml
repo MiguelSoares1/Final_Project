@@ -1,0 +1,5 @@
+Raw_Data:
+  file: "../Data/Raw/superstore/Superstore.csv"
+
+Clean_Data:
+  file: "../Data/Clean/cleaned_data_file.csv"
