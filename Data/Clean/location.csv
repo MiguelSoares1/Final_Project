@@ -1,0 +1,633 @@
+postal_code,city,state,country,region,location_id
+42420,Henderson,Kentucky,United States,South,1
+90036,Los Angeles,California,United States,West,2
+33311,Fort Lauderdale,Florida,United States,South,3
+90032,Los Angeles,California,United States,West,4
+28027,Concord,North Carolina,United States,South,5
+98103,Seattle,Washington,United States,West,6
+76106,Fort Worth,Texas,United States,Central,7
+53711,Madison,Wisconsin,United States,Central,8
+84084,West Jordan,Utah,United States,West,9
+94109,San Francisco,California,United States,West,10
+68025,Fremont,Nebraska,United States,Central,11
+19140,Philadelphia,Pennsylvania,United States,East,12
+84057,Orem,Utah,United States,West,13
+90049,Los Angeles,California,United States,West,14
+77095,Houston,Texas,United States,Central,15
+75080,Richardson,Texas,United States,Central,16
+77041,Houston,Texas,United States,Central,17
+60540,Naperville,Illinois,United States,Central,18
+32935,Melbourne,Florida,United States,South,19
+55122,Eagan,Minnesota,United States,Central,20
+48185,Westland,Michigan,United States,Central,21
+19901,Dover,Delaware,United States,East,22
+47150,New Albany,Indiana,United States,Central,23
+10024,New York City,New York,United States,East,24
+12180,Troy,New York,United States,East,25
+90004,Los Angeles,California,United States,West,26
+60610,Chicago,Illinois,United States,Central,27
+85234,Gilbert,Arizona,United States,West,28
+22153,Springfield,Virginia,United States,South,29
+10009,New York City,New York,United States,East,30
+49201,Jackson,Michigan,United States,Central,31
+38109,Memphis,Tennessee,United States,South,32
+77070,Houston,Texas,United States,Central,33
+35601,Decatur,Alabama,United States,South,34
+94122,San Francisco,California,United States,West,35
+27707,Durham,North Carolina,United States,South,36
+60623,Chicago,Illinois,United States,Central,37
+29203,Columbia,South Carolina,United States,South,38
+55901,Rochester,Minnesota,United States,Central,39
+55407,Minneapolis,Minnesota,United States,Central,40
+97206,Portland,Oregon,United States,West,41
+55106,Saint Paul,Minnesota,United States,Central,42
+80013,Aurora,Colorado,United States,West,43
+28205,Charlotte,North Carolina,United States,South,44
+60462,Orland Park,Illinois,United States,Central,45
+10035,New York City,New York,United States,East,46
+50322,Urbandale,Iowa,United States,Central,47
+43229,Columbus,Ohio,United States,East,48
+37620,Bristol,Tennessee,United States,South,49
+19805,Wilmington,Delaware,United States,East,50
+61701,Bloomington,Illinois,United States,Central,51
+85023,Phoenix,Arizona,United States,West,52
+95661,Roseville,California,United States,West,53
+64055,Independence,Missouri,United States,Central,54
+91104,Pasadena,California,United States,West,55
+43055,Newark,Ohio,United States,East,56
+53132,Franklin,Wisconsin,United States,Central,57
+85254,Scottsdale,Arizona,United States,West,58
+95123,San Jose,California,United States,West,59
+98105,Seattle,Washington,United States,West,60
+98115,Seattle,Washington,United States,West,61
+73034,Edmond,Oklahoma,United States,Central,62
+90045,Los Angeles,California,United States,West,63
+19134,Philadelphia,Pennsylvania,United States,East,64
+88220,Carlsbad,New Mexico,United States,West,65
+78207,San Antonio,Texas,United States,Central,66
+77036,Houston,Texas,United States,Central,67
+62521,Decatur,Illinois,United States,Central,68
+71203,Monroe,Louisiana,United States,South,69
+6824,Fairfield,Connecticut,United States,East,70
+75051,Grand Prairie,Texas,United States,Central,71
+92374,Redlands,California,United States,West,72
+45011,Hamilton,Ohio,United States,East,73
+7090,Westfield,New Jersey,United States,East,74
+19120,Philadelphia,Pennsylvania,United States,East,75
+44312,Akron,Ohio,United States,East,76
+80219,Denver,Colorado,United States,West,77
+75220,Dallas,Texas,United States,Central,78
+37064,Franklin,Tennessee,United States,South,79
+90604,Whittier,California,United States,West,80
+48601,Saginaw,Michigan,United States,Central,81
+44256,Medina,Ohio,United States,East,82
+43017,Dublin,Ohio,United States,East,83
+48227,Detroit,Michigan,United States,Central,84
+38401,Columbia,Tennessee,United States,South,85
+33614,Tampa,Florida,United States,South,86
+95051,Santa Clara,California,United States,West,87
+55044,Lakeville,Minnesota,United States,Central,88
+92037,San Diego,California,United States,West,89
+77506,Pasadena,Texas,United States,Central,90
+94513,Brentwood,California,United States,West,91
+27514,Chapel Hill,North Carolina,United States,South,92
+7960,Morristown,New Jersey,United States,East,93
+45231,Cincinnati,Ohio,United States,East,94
+94110,San Francisco,California,United States,West,95
+90301,Inglewood,California,United States,West,96
+33319,Tamarac,Florida,United States,South,97
+80906,Colorado Springs,Colorado,United States,West,98
+7109,Belleville,New Jersey,United States,East,99
+48180,Taylor,Michigan,United States,Central,100
+8701,Lakewood,New Jersey,United States,East,101
+22204,Arlington,Virginia,United States,South,102
+80004,Arvada,Colorado,United States,West,103
+7601,Hackensack,New Jersey,United States,East,104
+33710,Saint Petersburg,Florida,United States,South,105
+19143,Philadelphia,Pennsylvania,United States,East,106
+90805,Long Beach,California,United States,West,107
+92345,Hesperia,California,United States,West,108
+37130,Murfreesboro,Tennessee,United States,South,109
+84041,Layton,Utah,United States,West,110
+78745,Austin,Texas,United States,Central,111
+1852,Lowell,Massachusetts,United States,East,112
+31907,Columbus,Georgia,United States,South,113
+6040,Manchester,Connecticut,United States,East,114
+78550,Harlingen,Texas,United States,Central,115
+85705,Tucson,Arizona,United States,West,116
+62301,Quincy,Illinois,United States,Central,117
+2038,Franklin,Massachusetts,United States,East,118
+33024,Pembroke Pines,Florida,United States,South,119
+98198,Des Moines,Washington,United States,West,120
+61604,Peoria,Illinois,United States,Central,121
+89115,Las Vegas,Nevada,United States,West,122
+2886,Warwick,Rhode Island,United States,East,123
+33180,Miami,Florida,United States,South,124
+28403,Wilmington,North Carolina,United States,South,125
+92646,Huntington Beach,California,United States,West,126
+40475,Richmond,Kentucky,United States,South,127
+80027,Louisville,Colorado,United States,West,128
+1841,Lawrence,Massachusetts,United States,East,129
+39212,Jackson,Mississippi,United States,South,130
+48187,Canton,Michigan,United States,Central,131
+10801,New Rochelle,New York,United States,East,132
+28052,Gastonia,North Carolina,United States,South,133
+32216,Jacksonville,Florida,United States,South,134
+47201,Columbus,Indiana,United States,Central,135
+13021,Auburn,New York,United States,East,136
+73071,Norman,Oklahoma,United States,Central,137
+94521,Concord,California,United States,West,138
+60068,Park Ridge,Illinois,United States,Central,139
+79109,Amarillo,Texas,United States,Central,140
+11757,Lindenhurst,New York,United States,East,141
+90008,Los Angeles,California,United States,West,142
+92024,San Diego,California,United States,West,143
+77340,Huntsville,Texas,United States,Central,144
+14609,Rochester,New York,United States,East,145
+72701,Fayetteville,Arkansas,United States,South,146
+92627,Costa Mesa,California,United States,West,147
+80134,Parker,Colorado,United States,West,148
+30318,Atlanta,Georgia,United States,South,149
+64118,Gladstone,Missouri,United States,Central,150
+59405,Great Falls,Montana,United States,West,151
+48234,Detroit,Michigan,United States,Central,152
+33801,Lakeland,Florida,United States,South,153
+36116,Montgomery,Alabama,United States,South,154
+85204,Mesa,Arizona,United States,West,155
+60653,Chicago,Illinois,United States,Central,156
+54302,Green Bay,Wisconsin,United States,Central,157
+45503,Springfield,Ohio,United States,East,158
+92804,Anaheim,California,United States,West,159
+98270,Marysville,Washington,United States,West,160
+97301,Salem,Oregon,United States,West,161
+78041,Laredo,Texas,United States,Central,162
+75217,Dallas,Texas,United States,Central,163
+43123,Grove City,Ohio,United States,East,164
+10011,New York City,New York,United States,East,165
+48126,Dearborn,Michigan,United States,Central,166
+31088,Warner Robins,Georgia,United States,South,167
+94591,Vallejo,California,United States,West,168
+92691,Mission Viejo,California,United States,West,169
+48307,Rochester Hills,Michigan,United States,Central,170
+7060,Plainfield,New Jersey,United States,East,171
+85635,Sierra Vista,Arizona,United States,West,172
+98661,Vancouver,Washington,United States,West,173
+60505,Aurora,Illinois,United States,Central,174
+76017,Arlington,Texas,United States,Central,175
+40214,Louisville,Kentucky,United States,South,176
+75081,Dallas,Texas,United States,Central,177
+44105,Cleveland,Ohio,United States,East,178
+75701,Tyler,Texas,United States,Central,179
+27217,Burlington,North Carolina,United States,South,180
+22980,Waynesboro,Virginia,United States,South,181
+19013,Chester,Pennsylvania,United States,East,182
+27511,Cary,North Carolina,United States,South,183
+32137,Palm Coast,Florida,United States,South,184
+10550,Mount Vernon,New York,United States,East,185
+48205,Detroit,Michigan,United States,Central,186
+33012,Hialeah,Florida,United States,South,187
+11572,Oceanside,New York,United States,East,188
+92105,San Diego,California,United States,West,189
+60201,Evanston,Illinois,United States,Central,190
+48183,Trenton,Michigan,United States,Central,191
+55016,Cottage Grove,Minnesota,United States,Central,192
+71111,Bossier City,Louisiana,United States,South,193
+50315,Des Moines,Iowa,United States,Central,194
+93534,Lancaster,California,United States,West,195
+23223,Richmond,Virginia,United States,South,196
+28806,Asheville,North Carolina,United States,South,197
+92530,Lake Elsinore,California,United States,West,198
+68104,Omaha,Nebraska,United States,Central,199
+98026,Edmonds,Washington,United States,West,200
+92704,Santa Ana,California,United States,West,201
+53209,Milwaukee,Wisconsin,United States,Central,202
+41042,Florence,Kentucky,United States,South,203
+44052,Lorain,Ohio,United States,East,204
+7036,Linden,New Jersey,United States,East,205
+93905,Salinas,California,United States,West,206
+8901,New Brunswick,New Jersey,United States,East,207
+17602,Lancaster,Pennsylvania,United States,East,208
+3301,Concord,New Hampshire,United States,East,209
+21044,Columbia,Maryland,United States,East,210
+75043,Garland,Texas,United States,Central,211
+6360,Norwich,Connecticut,United States,East,212
+22304,Alexandria,Virginia,United States,South,213
+43615,Toledo,Ohio,United States,East,214
+87401,Farmington,New Mexico,United States,West,215
+92503,Riverside,California,United States,West,216
+90503,Torrance,California,United States,West,217
+78664,Round Rock,Texas,United States,Central,218
+92054,Oceanside,California,United States,West,219
+33433,Boca Raton,Florida,United States,South,220
+23464,Virginia Beach,Virginia,United States,South,221
+92563,Murrieta,California,United States,West,222
+28540,Jacksonville,North Carolina,United States,South,223
+52601,Burlington,Iowa,United States,Central,224
+98502,Olympia,Washington,United States,West,225
+20016,Washington,District of Columbia,United States,East,226
+65109,Jefferson City,Missouri,United States,Central,227
+63376,Saint Peters,Missouri,United States,Central,228
+61107,Rockford,Illinois,United States,Central,229
+33142,Miami,Florida,United States,South,230
+78521,Brownsville,Texas,United States,Central,231
+10701,Yonkers,New York,United States,East,232
+94601,Oakland,California,United States,West,233
+28110,Monroe,North Carolina,United States,South,234
+20735,Clinton,Maryland,United States,East,235
+92024,Encinitas,California,United States,West,236
+30076,Roswell,Georgia,United States,South,237
+72401,Jonesboro,Arkansas,United States,South,238
+47374,Richmond,Indiana,United States,Central,239
+94509,Antioch,California,United States,West,240
+33030,Homestead,Florida,United States,South,241
+46350,La Porte,Indiana,United States,Central,242
+48911,Lansing,Michigan,United States,Central,243
+44221,Cuyahoga Falls,Ohio,United States,East,244
+89502,Reno,Nevada,United States,West,245
+22801,Harrisonburg,Virginia,United States,South,246
+92025,Escondido,California,United States,West,247
+48073,Royal Oak,Michigan,United States,Central,248
+20852,Rockville,Maryland,United States,East,249
+33065,Coral Springs,Florida,United States,South,250
+14215,Buffalo,New York,United States,East,251
+33437,Boynton Beach,Florida,United States,South,252
+39503,Gulfport,Mississippi,United States,South,253
+93727,Fresno,California,United States,West,254
+27834,Greenville,North Carolina,United States,South,255
+11561,Long Beach,New York,United States,East,256
+35630,Florence,Alabama,United States,South,257
+31204,Macon,Georgia,United States,South,258
+52402,Cedar Rapids,Iowa,United States,Central,259
+2908,Providence,Rhode Island,United States,East,260
+81001,Pueblo,Colorado,United States,West,261
+94533,Fairfield,California,United States,West,262
+32725,Deltona,Florida,United States,South,263
+42071,Murray,Kentucky,United States,South,264
+6457,Middletown,Connecticut,United States,East,265
+11520,Freeport,New York,United States,East,266
+90660,Pico Rivera,California,United States,West,267
+84604,Provo,Utah,United States,West,268
+84062,Pleasant Grove,Utah,United States,West,269
+30080,Smyrna,Georgia,United States,South,270
+24153,Salem,Virginia,United States,South,271
+44134,Parma,Ohio,United States,East,272
+36608,Mobile,Alabama,United States,South,273
+2740,New Bedford,Massachusetts,United States,East,274
+75061,Irving,Texas,United States,Central,275
+8360,Vineland,New Jersey,United States,East,276
+85301,Glendale,Arizona,United States,West,277
+14304,Niagara Falls,New York,United States,East,278
+27360,Thomasville,North Carolina,United States,South,279
+92683,Westminster,California,United States,West,280
+38301,Jackson,Tennessee,United States,South,281
+75019,Coppell,Texas,United States,Central,282
+91767,Pomona,California,United States,West,283
+89031,North Las Vegas,Nevada,United States,West,284
+18103,Allentown,Pennsylvania,United States,East,285
+19711,Newark,Delaware,United States,East,286
+85281,Tempe,Arizona,United States,West,287
+92677,Laguna Niguel,California,United States,West,288
+8302,Bridgeton,New Jersey,United States,East,289
+2149,Everett,Massachusetts,United States,East,290
+13601,Watertown,New York,United States,East,291
+54915,Appleton,Wisconsin,United States,Central,292
+98006,Bellevue,Washington,United States,West,293
+75002,Allen,Texas,United States,Central,294
+79907,El Paso,Texas,United States,Central,295
+76051,Grapevine,Texas,United States,Central,296
+75007,Carrollton,Texas,United States,Central,297
+37167,Smyrna,Tennessee,United States,South,298
+98031,Kent,Washington,United States,West,299
+70506,Lafayette,Louisiana,United States,South,300
+97224,Tigard,Oregon,United States,West,301
+60076,Skokie,Illinois,United States,Central,302
+75023,Plano,Texas,United States,Central,303
+23434,Suffolk,Virginia,United States,South,304
+46203,Indianapolis,Indiana,United States,Central,305
+7002,Bayonne,New Jersey,United States,East,306
+28314,Fayetteville,North Carolina,United States,South,307
+27405,Greensboro,North Carolina,United States,South,308
+21215,Baltimore,Maryland,United States,East,309
+53142,Kenosha,Wisconsin,United States,Central,310
+66062,Olathe,Kansas,United States,Central,311
+98002,Auburn,Washington,United States,West,312
+74133,Tulsa,Oklahoma,United States,Central,313
+97756,Redmond,Oregon,United States,West,314
+27604,Raleigh,North Carolina,United States,South,315
+74403,Muskogee,Oklahoma,United States,Central,316
+6450,Meriden,Connecticut,United States,East,317
+42104,Bowling Green,Kentucky,United States,South,318
+46614,South Bend,Indiana,United States,Central,319
+6010,Bristol,Connecticut,United States,East,320
+89015,Henderson,Nevada,United States,West,321
+99207,Spokane,Washington,United States,West,322
+76248,Keller,Texas,United States,Central,323
+45014,Fairfield,Ohio,United States,East,324
+32127,Port Orange,Florida,United States,South,325
+97504,Medford,Oregon,United States,West,326
+22901,Charlottesville,Virginia,United States,South,327
+59801,Missoula,Montana,United States,West,328
+33178,Miami,Florida,United States,South,329
+29501,Florence,South Carolina,United States,South,330
+97477,Springfield,Oregon,United States,West,331
+32712,Apopka,Florida,United States,South,332
+19601,Reading,Pennsylvania,United States,East,333
+80020,Broomfield,Colorado,United States,West,334
+65807,Springfield,Missouri,United States,Central,335
+7501,Paterson,New Jersey,United States,East,336
+73120,Oklahoma City,Oklahoma,United States,Central,337
+23320,Chesapeake,Virginia,United States,South,338
+79424,Lubbock,Texas,United States,Central,339
+65203,Columbia,Missouri,United States,Central,340
+37604,Johnson City,Tennessee,United States,South,341
+36830,Auburn,Alabama,United States,South,342
+92404,San Bernardino,California,United States,West,343
+1453,Leominster,Massachusetts,United States,East,344
+59715,Bozeman,Montana,United States,West,345
+85345,Peoria,Arizona,United States,West,346
+44107,Lakewood,Ohio,United States,East,347
+8861,Perth Amboy,New Jersey,United States,East,348
+91761,Ontario,California,United States,West,349
+91730,Rancho Cucamonga,California,United States,West,350
+56560,Moorhead,Minnesota,United States,Central,351
+75150,Mesquite,Texas,United States,Central,352
+95207,Stockton,California,United States,West,353
+32174,Ormond Beach,Florida,United States,South,354
+94086,Sunnyvale,California,United States,West,355
+3820,Dover,New Hampshire,United States,East,356
+17403,York,Pennsylvania,United States,East,357
+77840,College Station,Texas,United States,Central,358
+63116,Saint Louis,Missouri,United States,Central,359
+2169,Quincy,Massachusetts,United States,East,360
+95336,Manteca,California,United States,West,361
+44240,Kent,Ohio,United States,East,362
+76903,San Angelo,Texas,United States,Central,363
+84106,Salt Lake City,Utah,United States,West,364
+35810,Huntsville,Alabama,United States,South,365
+37918,Knoxville,Tennessee,United States,South,366
+72209,Little Rock,Arkansas,United States,South,367
+48146,Lincoln Park,Michigan,United States,Central,368
+43302,Marion,Ohio,United States,East,369
+80122,Littleton,Colorado,United States,West,370
+5408,Burlington,Vermont,United States,East,371
+4401,Bangor,Maine,United States,East,372
+38671,Southaven,Mississippi,United States,South,373
+47362,New Castle,Indiana,United States,Central,374
+48640,Midland,Michigan,United States,Central,375
+57103,Sioux Falls,South Dakota,United States,Central,376
+80525,Fort Collins,Colorado,United States,West,377
+47905,Lafayette,Indiana,United States,Central,378
+37042,Clarksville,Tennessee,United States,South,379
+95823,Sacramento,California,United States,West,380
+91360,Thousand Oaks,California,United States,West,381
+2148,Malden,Massachusetts,United States,East,382
+1040,Holyoke,Massachusetts,United States,East,383
+87105,Albuquerque,New Mexico,United States,West,384
+89431,Sparks,Nevada,United States,West,385
+92236,Coachella,California,United States,West,386
+60126,Elmhurst,Illinois,United States,Central,387
+7055,Passaic,New Jersey,United States,East,388
+29406,North Charleston,South Carolina,United States,South,389
+23602,Newport News,Virginia,United States,South,390
+14701,Jamestown,New York,United States,East,391
+46544,Mishawaka,Indiana,United States,Central,392
+43402,Bowling Green,Ohio,United States,East,393
+92253,La Quinta,California,United States,West,394
+32303,Tallahassee,Florida,United States,South,395
+37211,Nashville,Tennessee,United States,South,396
+98226,Bellingham,Washington,United States,West,397
+60098,Woodstock,Illinois,United States,Central,398
+76117,Haltom City,Texas,United States,Central,399
+60090,Wheeling,Illinois,United States,Central,400
+29483,Summerville,South Carolina,United States,South,401
+71901,Hot Springs,Arkansas,United States,South,402
+80112,Englewood,Colorado,United States,West,403
+43130,Lancaster,Ohio,United States,East,404
+88001,Las Cruces,New Mexico,United States,West,405
+35244,Hoover,Alabama,United States,South,406
+75034,Frisco,Texas,United States,Central,407
+95687,Vacaville,California,United States,West,408
+84107,Murray,Utah,United States,West,409
+53186,Waukesha,Wisconsin,United States,Central,410
+93309,Bakersfield,California,United States,West,411
+33068,Pompano Beach,Florida,United States,South,412
+45373,Troy,Ohio,United States,East,413
+78415,Corpus Christi,Texas,United States,Central,414
+90278,Redondo Beach,California,United States,West,415
+32839,Orlando,Florida,United States,South,416
+7050,Orange,New Jersey,United States,East,417
+70601,Lake Charles,Louisiana,United States,South,418
+60035,Highland Park,Illinois,United States,Central,419
+11550,Hempstead,New York,United States,East,420
+46060,Noblesville,Indiana,United States,Central,421
+55124,Apple Valley,Minnesota,United States,Central,422
+29464,Mount Pleasant,South Carolina,United States,South,423
+48310,Sterling Heights,Michigan,United States,Central,424
+54703,Eau Claire,Wisconsin,United States,Central,425
+78577,Pharr,Texas,United States,Central,426
+59102,Billings,Montana,United States,West,427
+97030,Gresham,Oregon,United States,West,428
+37421,Chattanooga,Tennessee,United States,South,429
+83642,Meridian,Idaho,United States,West,430
+92307,Apple Valley,California,United States,West,431
+60440,Bolingbrook,Illinois,United States,Central,432
+55369,Maple Grove,Minnesota,United States,Central,433
+95695,Woodland,California,United States,West,434
+77489,Missouri City,Texas,United States,Central,435
+77581,Pearland,Texas,United States,Central,436
+94403,San Mateo,California,United States,West,437
+49505,Grand Rapids,Michigan,United States,Central,438
+93277,Visalia,California,United States,West,439
+66212,Overland Park,Kansas,United States,Central,440
+92592,Temecula,California,United States,West,441
+92399,Yucaipa,California,United States,West,442
+2151,Revere,Massachusetts,United States,East,443
+77301,Conroe,Texas,United States,Central,444
+60477,Tinley Park,Illinois,United States,Central,445
+52001,Dubuque,Iowa,United States,Central,446
+48127,Dearborn Heights,Michigan,United States,Central,447
+87505,Santa Fe,New Mexico,United States,West,448
+28601,Hickory,North Carolina,United States,South,449
+60188,Carol Stream,Illinois,United States,Central,450
+56301,Saint Cloud,Minnesota,United States,Central,451
+33161,North Miami,Florida,United States,South,452
+46226,Lawrence,Indiana,United States,Central,453
+33317,Plantation,Florida,United States,South,454
+34952,Port Saint Lucie,Florida,United States,South,455
+29730,Rock Hill,South Carolina,United States,South,456
+79762,Odessa,Texas,United States,Central,457
+53214,West Allis,Wisconsin,United States,Central,458
+91911,Chula Vista,California,United States,West,459
+66502,Manhattan,Kansas,United States,Central,460
+16602,Altoona,Pennsylvania,United States,East,461
+80229,Thornton,Colorado,United States,West,462
+61821,Champaign,Illinois,United States,Central,463
+47401,Bloomington,Indiana,United States,Central,464
+71854,Texarkana,Arkansas,United States,South,465
+78539,Edinburg,Texas,United States,Central,466
+77520,Baytown,Texas,United States,Central,467
+46142,Greenwood,Indiana,United States,Central,468
+90712,Lakewood,California,United States,West,469
+2895,Woonsocket,Rhode Island,United States,East,470
+54880,Superior,Wisconsin,United States,Central,471
+76021,Bedford,Texas,United States,Central,472
+98042,Covington,Washington,United States,West,473
+74012,Broken Arrow,Oklahoma,United States,Central,474
+33023,Miramar,Florida,United States,South,475
+33021,Hollywood,Florida,United States,South,476
+77536,Deer Park,Texas,United States,Central,477
+67212,Wichita,Kansas,United States,Central,478
+78501,Mcallen,Texas,United States,Central,479
+52240,Iowa City,Iowa,United States,Central,480
+83704,Boise,Idaho,United States,West,481
+2920,Cranston,Rhode Island,United States,East,482
+61032,Freeport,Illinois,United States,Central,483
+77642,Port Arthur,Texas,United States,Central,484
+95610,Citrus Heights,California,United States,West,485
+75056,The Colony,Texas,United States,Central,486
+98052,Redmond,Washington,United States,West,487
+32114,Daytona Beach,Florida,United States,South,488
+86442,Bullhead City,Arizona,United States,West,489
+46368,Portage,Indiana,United States,Central,490
+58103,Fargo,North Dakota,United States,Central,491
+46514,Elkhart,Indiana,United States,Central,492
+91776,San Gabriel,California,United States,West,493
+33063,Margate,Florida,United States,South,494
+30328,Sandy Springs,Georgia,United States,South,495
+44060,Mentor,Ohio,United States,East,496
+73505,Lawton,Oklahoma,United States,Central,497
+23666,Hampton,Virginia,United States,South,498
+13440,Rome,New York,United States,East,499
+54601,La Crosse,Wisconsin,United States,Central,500
+83501,Lewiston,Idaho,United States,West,501
+39401,Hattiesburg,Mississippi,United States,South,502
+94526,Danville,California,United States,West,503
+48858,Mount Pleasant,Michigan,United States,Central,504
+84321,Logan,Utah,United States,West,505
+6708,Waterbury,Connecticut,United States,East,506
+30605,Athens,Georgia,United States,South,507
+4240,Lewiston,Maine,United States,East,508
+61832,Danville,Illinois,United States,Central,509
+85323,Avondale,Arizona,United States,West,510
+30062,Marietta,Georgia,United States,South,511
+85364,Yuma,Arizona,United States,West,512
+54401,Wausau,Wisconsin,United States,Central,513
+99301,Pasco,Washington,United States,West,514
+60302,Oak Park,Illinois,United States,Central,515
+32503,Pensacola,Florida,United States,South,516
+77573,League City,Texas,United States,Central,517
+20877,Gaithersburg,Maryland,United States,East,518
+84043,Lehi,Utah,United States,West,519
+35401,Tuscaloosa,Alabama,United States,South,520
+92553,Moreno Valley,California,United States,West,521
+40324,Georgetown,Kentucky,United States,South,522
+80538,Loveland,Colorado,United States,West,523
+85224,Chandler,Arizona,United States,West,524
+59601,Helena,Montana,United States,West,525
+63122,Kirkwood,Missouri,United States,Central,526
+76706,Waco,Texas,United States,Central,527
+48066,Roseville,Michigan,United States,Central,528
+60423,Frankfort,Illinois,United States,Central,529
+18018,Bethlehem,Pennsylvania,United States,East,530
+55113,Roseville,Minnesota,United States,Central,531
+68801,Grand Island,Nebraska,United States,Central,532
+55125,Woodbury,Minnesota,United States,Central,533
+48237,Oak Park,Michigan,United States,Central,534
+72756,Rogers,Arkansas,United States,South,535
+88101,Clovis,New Mexico,United States,West,536
+33458,Jupiter,Florida,United States,South,537
+93101,Santa Barbara,California,United States,West,538
+75104,Cedar Hill,Texas,United States,Central,539
+68701,Norfolk,Nebraska,United States,Central,540
+84020,Draper,Utah,United States,West,541
+48104,Ann Arbor,Michigan,United States,Central,542
+91941,La Mesa,California,United States,West,543
+83201,Pocatello,Idaho,United States,West,544
+49423,Holland,Michigan,United States,Central,545
+6460,Milford,Connecticut,United States,East,546
+60089,Buffalo Grove,Illinois,United States,Central,547
+92630,Lake Forest,California,United States,West,548
+96003,Redding,California,United States,West,549
+95928,Chico,California,United States,West,550
+13501,Utica,New York,United States,East,551
+72032,Conway,Arkansas,United States,South,552
+82001,Cheyenne,Wyoming,United States,West,553
+42301,Owensboro,Kentucky,United States,South,554
+83605,Caldwell,Idaho,United States,West,555
+70065,Kenner,Louisiana,United States,South,556
+3060,Nashua,New Hampshire,United States,East,557
+38134,Bartlett,Tennessee,United States,South,558
+94061,Redwood City,California,United States,West,559
+37087,Lebanon,Tennessee,United States,South,560
+93454,Santa Maria,California,United States,West,561
+60016,Des Plaines,Illinois,United States,Central,562
+98632,Longview,Washington,United States,West,563
+37075,Hendersonville,Tennessee,United States,South,564
+50701,Waterloo,Iowa,United States,Central,565
+2138,Cambridge,Massachusetts,United States,East,566
+60067,Palatine,Illinois,United States,Central,567
+1915,Beverly,Massachusetts,United States,East,568
+97405,Eugene,Oregon,United States,West,569
+93030,Oxnard,California,United States,West,570
+98059,Renton,Washington,United States,West,571
+60025,Glenview,Illinois,United States,Central,572
+33445,Delray Beach,Florida,United States,South,573
+80022,Commerce City,Colorado,United States,West,574
+77590,Texas City,Texas,United States,Central,575
+27893,Wilson,North Carolina,United States,South,576
+87124,Rio Rancho,New Mexico,United States,West,577
+27534,Goldsboro,North Carolina,United States,South,578
+98208,Everett,Washington,United States,West,579
+90640,Montebello,California,United States,West,580
+92020,El Cajon,California,United States,West,581
+77705,Beaumont,Texas,United States,Central,582
+33407,West Palm Beach,Florida,United States,South,583
+79605,Abilene,Texas,United States,Central,584
+61761,Normal,Illinois,United States,Central,585
+63301,Saint Charles,Missouri,United States,Central,586
+60174,Saint Charles,Illinois,United States,Central,587
+93010,Camarillo,California,United States,West,588
+97123,Hillsboro,Oregon,United States,West,589
+91505,Burbank,California,United States,West,590
+95351,Modesto,California,United States,West,591
+67846,Garden City,Kansas,United States,Central,592
+8401,Atlantic City,New Jersey,United States,East,593
+80501,Longmont,Colorado,United States,West,594
+95616,Davis,California,United States,West,595
+26003,Wheeling,West Virginia,United States,East,596
+95037,Morgan Hill,California,United States,West,597
+7011,Clifton,New Jersey,United States,East,598
+53081,Sheboygan,Wisconsin,United States,Central,599
+30344,East Point,Georgia,United States,South,600
+57701,Rapid City,South Dakota,United States,Central,601
+1810,Andover,Massachusetts,United States,East,602
+34741,Kissimmee,Florida,United States,South,603
+6484,Shelton,Connecticut,United States,East,604
+6810,Danbury,Connecticut,United States,East,605
+52302,Marion,Iowa,United States,Central,606
+32771,Sanford,Florida,United States,South,607
+78666,San Marcos,Texas,United States,Central,608
+80634,Greeley,Colorado,United States,West,609
+76063,Mansfield,Texas,United States,Central,610
+44035,Elyria,Ohio,United States,East,611
+83301,Twin Falls,Idaho,United States,West,612
+33134,Coral Gables,Florida,United States,South,613
+60441,Romeoville,Illinois,United States,Central,614
+1752,Marlborough,Massachusetts,United States,East,615
+20707,Laurel,Maryland,United States,East,616
+77803,Bryan,Texas,United States,Central,617
+71603,Pine Bluff,Arkansas,United States,South,618
+57401,Aberdeen,South Dakota,United States,Central,619
+21740,Hagerstown,Maryland,United States,East,620
+7017,East Orange,New Jersey,United States,East,621
+60004,Arlington Heights,Illinois,United States,Central,622
+60543,Oswego,Illinois,United States,Central,623
+55433,Coon Rapids,Minnesota,United States,Central,624
+92672,San Clemente,California,United States,West,625
+94568,Dublin,California,United States,West,626
+93405,San Luis Obispo,California,United States,West,627
+72762,Springdale,Arkansas,United States,South,628
+95240,Lodi,California,United States,West,629
+77571,La Porte,Texas,United States,Central,630
+45040,Mason,Ohio,United States,East,631
+30188,Woodstock,Georgia,United States,South,632

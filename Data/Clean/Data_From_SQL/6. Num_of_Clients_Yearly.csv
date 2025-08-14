@@ -1,0 +1,5 @@
+"acquisition_year","new_customers_count","cumulative_customers","previous_year_cumulative","percentage_growth_since_previous_year"
+"2014","595","595",NULL,NULL
+"2015","136","731","595","22.86"
+"2016","51","782","731","6.98"
+"2017","11","793","782","1.41"
